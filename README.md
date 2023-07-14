@@ -83,6 +83,24 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 - stress conditions might impact the web application
 - new browser might not be supported 
 
+## 3. Test deliverables
+
+### 3.1 Test plan - link to test plan
+
+- The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application
+- The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing.
+
+### 3.2 Test conditions 
+
+ -  we will use test environment
+ - testing using new accounts and older account is necessary
+The following test conditions could be found here:
+
+### 3.4 Daily/Weekly/Bi-weekly test summary report
+
+ - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) 
+
+
 
 
 
