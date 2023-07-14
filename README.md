@@ -39,6 +39,17 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Here we should write all the functionalities that are included in the release.
 e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
 
+- The features in scope for testing: Add funds, Withdraw funds, Send money
+- Testing types used: functional testing, GUI testing
+
+### 1.3 Functionalities and tests out of scope
+- The features out of scope: Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
+- Non-functional testing like stress, performance is beyond scope of this project.
+- No QA support for mobile applications developed. Only web applications will be tested.
+- Automation testing is beyond scope.
+
+
+
 
       
        
